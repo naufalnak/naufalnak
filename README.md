@@ -12,13 +12,13 @@ I am a passionate **Backend Developer** from Indonesia 🇮🇩 who loves buildi
 
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I'm currently working on **high-performance backend systems & microservices architecture**
-- 🌱 &nbsp; I'm currently deepening my knowledge in **Go, gRPC, and distributed systems**
+- 🔭 &nbsp; I'm currently working on **...**
+- 🌱 &nbsp; I'm currently deepening my knowledge in **Go, NodeJS, and distributed systems**
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/naufalnak?tab=repositories)
 - 💬 &nbsp; Ask me about anything **REST API, backend architecture, or databases** — I'm happy to help
 - 📫 &nbsp; Feel free to ping me at **naufal.ndak17@gmail.com**
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1_Z_eAdhIgDnvQmU9yiDfJQ9gieVmvPiz/view)
-- 📍 &nbsp; Based in **Jakarta, Indonesia**
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1-FO-in0keMau3afb8fMK9VV2r23PFR0J/view)
+- 📍 &nbsp; Based in **Bekasi, Indonesia**
 - ⚡ &nbsp; Fun fact: **I believe the best backend is one nobody notices — until it's gone**
 
 <br/>
