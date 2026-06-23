@@ -1,12 +1,12 @@
 ## Hey 👋, I'm Naufal Andresya Kholish!
 
-<a href='https://www.linkedin.com/in/naufalnak/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://instagram.com/naufalnak/'><img align='left' alt="instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/naufalandr/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://instagram.com/nafl.docx/'><img align='left' alt="instagram" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height='18px'/></a>
 
 <br/>
 <br/>
 
-I am a passionate **Backend Developer** from Indonesia 🇮🇩 who loves building scalable systems and well-architected APIs. I enjoy designing infrastructure that is **invisible by design, indispensable by impact** ⚙️ — from microservices to high-throughput data pipelines 🚀.
+I am a passionate **Backend/Fullstack Developer** from Indonesia 🇮🇩 who loves building scalable systems and well-architected APIs. I enjoy designing infrastructure that is **invisible by design, indispensable by impact** ⚙️ — from microservices to high-throughput data pipelines 🚀.
 
 <img align="right" alt="Coding" width="360px" src="techstack.gif"/>
 
